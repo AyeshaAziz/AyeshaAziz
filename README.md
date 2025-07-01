@@ -10,16 +10,42 @@ I am Ayesha Aziz 👋
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
 ### Languages and Tools: 
-<!-- <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
+<!-- JavaScript -->
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+
+<!-- React -->
+<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+
+<!-- TypeScript -->
+<img align="left" alt="TypeScript" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
+
+<!-- Angular -->
+<img align="left" alt="Angular" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" />
+
+<!-- Figma -->
+<img align="left" alt="Figma" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" />
+
+<!-- Cordova -->
+<img align="left" alt="Cordova" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/cordova/cordova.png" />
+
+<!-- Electron -->
+<img align="left" alt="Electron" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/electron/electron.png" />
+
+<!-- Hammer.js -->
+<img align="left" alt="Hammer.js" width="50px" src="https://raw.githubusercontent.com/hammerjs/hammer.js/master/hammer.png" />
+
+<!-- NgRx -->
+<img align="left" alt="NgRx" width="50px" src="https://seeklogo.com/images/N/ngrx-logo-CE1B8B4B2C-seeklogo.com.png" />
+
+<!-- RxJS -->
+<img align="left" alt="RxJS" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/rxjs/rxjs.png" />
+
+<!-- Redux -->
+<img align="left" alt="Redux" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png" />
+
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
 
 <br>
@@ -30,12 +56,12 @@ I am Ayesha Aziz 👋
 - Frontend Development ✍️
 
 
-### :zap: Github Stats
+<!-- ### :zap: Github Stats
 <p>
     <a href="https://gitstats.me/ayeshaaziz" target="_blank"> 
         <img src="https://github-readme-stats.vercel.app/api?username=ayeshaaziz&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
     </a>
-</p>
+</p> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaaziz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
