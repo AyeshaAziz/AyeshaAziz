@@ -33,7 +33,6 @@ I am Ayesha Aziz 👋
 <img align="left" alt="Electron" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/electron/electron.png" />
 
 <!-- Hammer.js -->
-<!-- <img align="left" alt="Hammer.js" width="50px" src="https://raw.githubusercontent.com/hammerjs/hammer.js/master/hammer.png" /> -->
 <img align="left" alt="Hammer.js" width="50px" src="https://libreriasjs.com/wp-content/uploads/2021/12/hammerjs.jpg" />
 
 <!-- NgRx -->
@@ -50,12 +49,14 @@ I am Ayesha Aziz 👋
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 
-<br>
-<br>
+<br />
 
 ### Things I love:
-- Angular - React <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJ3YnJzaXA1czVycXg5NXlxZjhpZWpibjhzMXBzNDMzeGFwaWx6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SRk34eQg51mlvazIjC/giphy.gif" width="30"> 
-- Frontend Development ✍️
+- Angular <br /> 
+- React <br />
+- Debugging at 2AM 👩‍💻 <br />
+- Frontend Development ✍️ <br />
+- Baking and decoration cakes 🎂  
 
 
 <!-- ### :zap: Github Stats
