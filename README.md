@@ -33,20 +33,22 @@ I am Ayesha Aziz 👋
 <img align="left" alt="Electron" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/electron/electron.png" />
 
 <!-- Hammer.js -->
-<img align="left" alt="Hammer.js" width="50px" src="https://raw.githubusercontent.com/hammerjs/hammer.js/master/hammer.png" />
+<!-- <img align="left" alt="Hammer.js" width="50px" src="https://raw.githubusercontent.com/hammerjs/hammer.js/master/hammer.png" /> -->
+<img align="left" alt="Hammer.js" width="50px" src="https://libreriasjs.com/wp-content/uploads/2021/12/hammerjs.jpg" />
 
 <!-- NgRx -->
-<img align="left" alt="NgRx" width="50px" src="https://seeklogo.com/images/N/ngrx-logo-CE1B8B4B2C-seeklogo.com.png" />
+<img align="left" alt="NgRx" width="50px" src="https://ngrx.io/assets/images/badge.png" />
+
 
 <!-- RxJS -->
-<img align="left" alt="RxJS" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/rxjs/rxjs.png" />
+<img align="left" alt="RxJS" width="50px" src="https://w7.pngwing.com/pngs/650/439/png-transparent-rxjs-hd-logo-thumbnail.png" />
 
 <!-- Redux -->
 <img align="left" alt="Redux" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png" />
 
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
+<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 
 <br>
 <br>
