@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:#000000;display:block;z-index:1;position:relative" width="1084" height="322" preserveAspectRatio="xMidYMid" viewBox="0 0 1084 322">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:#00000;display:block;z-index:1;position:relative" width="1084" height="322" preserveAspectRatio="xMidYMid" viewBox="0 0 1084 322">
 <defs>
-  <pattern id="pid-0.3947942198386354" x="0" y="0" width="230.4" height="230.4" patternUnits="userSpaceOnUse">
+  <pattern id="pid-0.3947942198386354" x="0" y="0" width="250.4" height="230.4" patternUnits="userSpaceOnUse">
     <g transform="scale(0.9)">
       <g style="font-family:courier new;font-size:25.6">
         <!-- AYESHA (inverted letters) -->
@@ -126,7 +126,7 @@
 
         <style type="text/css">
           @keyframes ldp-matrix {
-            0% { opacity: 1; fill:rgb(95, 233, 68);}
+            0% { opacity: 1; fill:rgb(210, 133, 233);}
             10% { opacity: 1; fill: #6ec6ff; }
             50% { opacity: 0}
             100% { opacity: 0}
